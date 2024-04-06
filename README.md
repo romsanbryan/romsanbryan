@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Spring, MongoDB and cybersecurity</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Spring, MongoDB and cybersecurity</p>
 
 ###
 
